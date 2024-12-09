@@ -1,1 +1,4 @@
-theme: minima
+theme: slate
+title: config_title
+author: config_author
+description: config_description
